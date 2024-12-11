@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ControladorGestorTareas
+comment1.params=
+comment1.target=void\ initialize()
+comment2.params=
+comment2.target=void\ cargarTareas()
+comment3.params=event
+comment3.target=void\ agregarTarea(javafx.event.ActionEvent)
+comment4.params=event
+comment4.target=void\ eliminarTarea(javafx.event.ActionEvent)
+comment5.params=event
+comment5.target=void\ completarTarea(javafx.event.ActionEvent)
+comment6.params=titulo\ mensaje
+comment6.target=void\ mostrarAlerta(java.lang.String,\ java.lang.String)
+numComments=7

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GestorBD
+comment1.params=
+comment1.target=GestorBD()
+comment2.params=
+comment2.target=void\ crearTablaSiNoExiste()
+comment3.params=nombre\ descripcion\ estado
+comment3.target=void\ agregarTarea(java.lang.String,\ java.lang.String,\ boolean)
+comment4.params=id
+comment4.target=void\ eliminarTarea(int)
+comment5.params=id
+comment5.target=void\ completarTarea(int)
+comment6.params=
+comment6.target=java.util.List\ obtenerTareas()
+numComments=7
